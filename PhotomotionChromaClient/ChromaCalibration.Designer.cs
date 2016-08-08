@@ -272,6 +272,7 @@
             this.numericUpDownSaturationTolerance.Name = "numericUpDownSaturationTolerance";
             this.numericUpDownSaturationTolerance.Size = new System.Drawing.Size(49, 20);
             this.numericUpDownSaturationTolerance.TabIndex = 26;
+            this.numericUpDownSaturationTolerance.ValueChanged += new System.EventHandler(this.numericUpDownValueChanged);
             // 
             // trackBarHue
             // 
