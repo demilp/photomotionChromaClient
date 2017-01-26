@@ -28,6 +28,7 @@ C:\Users\Demian\Documents\Visual Studio 2015\Projects\PhotomotionChromaClient\Ph
 C:\Users\Demian\Documents\Visual Studio 2015\Projects\PhotomotionChromaClient\PhotomotionChromaClient\bin\Release\AForge.Video.dll
 C:\Users\Demian\Documents\Visual Studio 2015\Projects\PhotomotionChromaClient\PhotomotionChromaClient\bin\Release\AForge.Video.FFMPEG.dll
 C:\Users\Demian\Documents\Visual Studio 2015\Projects\PhotomotionChromaClient\PhotomotionChromaClient\obj\Release\PhotomotionClient.csproj.PhotomotionChromaClient.exe.config
-C:\Users\Demian\Documents\Visual Studio 2015\Projects\PhotomotionChromaClient\PhotomotionChromaClient\obj\Release\PhotomotionClient.csprojResolveAssemblyReference.cache
 C:\Users\Demian\Documents\Visual Studio 2015\Projects\PhotomotionChromaClient\PhotomotionChromaClient\bin\Release\ChromaKey.dll
 C:\Users\Demian\Documents\Visual Studio 2015\Projects\PhotomotionChromaClient\PhotomotionChromaClient\bin\Release\Microsoft.CSharp.dll
+C:\Users\Demian\Documents\Visual Studio 2015\Projects\PhotomotionChromaClient\PhotomotionChromaClient\bin\Release\ffmpeg.exe
+C:\Users\Demian\Documents\Visual Studio 2015\Projects\PhotomotionChromaClient\PhotomotionChromaClient\obj\Release\PhotomotionClient.csprojResolveAssemblyReference.cache

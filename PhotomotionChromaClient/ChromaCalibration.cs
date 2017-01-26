@@ -130,7 +130,13 @@ namespace PhotomotionChromaClient
 
         private void OpenFileDialog_FileOk(object sender, CancelEventArgs e)
         {
-            originalBitmap = (Bitmap)Image.FromFile(openFileDialog.FileName);
+            byte[] imageBytes = File.ReadAllBytes(openFileDialog.FileName);
+            using (MemoryStream msImage = new MemoryStream(imageBytes))
+            {
+                originalBitmap = (Bitmap)Image.FromStream(msImage);
+            }
+
+            //originalBitmap = (Bitmap)Image.FromFile(openFileDialog.FileName);
             labelImagePath.Text = openFileDialog.FileName;
             UpdatePicture();
         }
